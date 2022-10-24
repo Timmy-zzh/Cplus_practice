@@ -4,6 +4,8 @@
 #include <iostream>
 #include <array>
 #include <iomanip>
+#include "charArr.cpp"
+#include "arrayAndVector.cpp"
 
 void forPractice();
 
@@ -33,7 +35,14 @@ int main() {
 //    forFloat();
 
     // while / do-while循环
-    whilePractice();
+//    whilePractice();
+
+//  字符数组
+//    charArrPractice();
+
+//    arrayPractice();
+
+    vectorPractice();
 
     return 0;
 }
