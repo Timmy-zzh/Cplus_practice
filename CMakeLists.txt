@@ -12,4 +12,6 @@ add_executable(Cplus_practice main.cpp)
 # 添加子项目
 add_subdirectory("chapter_one")
 add_subdirectory("chapter_two")
+add_subdirectory("chapter_three")
+add_subdirectory("chapter_four")
 add_subdirectory("chapter_five")
